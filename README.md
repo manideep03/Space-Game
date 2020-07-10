@@ -1,7 +1,7 @@
 # Space-Game
 
 ## Overview 
-This is a simple game created using Pygame in python. This is an old game which i was played in a small video game in my chilhood, I want to play again the game so i recreated game using Pygame in python.
+This is a simple game created using Pygame in python. This is an old game which i was played in a small video game in my childhood, I want to play again the game so i recreated game using Pygame in python.
 
 ## How to play 
 Step - 1 : Clone the repository
